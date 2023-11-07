@@ -1,6 +1,8 @@
 # Web125-Topsail-Island-Bootstrap
 
 View the project here: https://klbrown13.github.io/Web125-Topsail-Island-Bootstrap/
+
+
 Create another version of the Topsail Beach NC Website (Opens in new window) URL: https://topsailbeachnc.gov/Visitors/Things-To-Do  this time, using Bootstrap.  
 As you already made many of the executive editing decisions regarding content in the previous project, this assignment should be mostly a question of using Bootstrap for layout.  If you wish, rather than a redesign, you can create your own beach town Website inspired by the link above. 
 Your final product should contain at least 5 functioning links (internal links to sections of a single-page site is fine) and cater to the relevant target audiences.
